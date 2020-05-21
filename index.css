@@ -7,7 +7,7 @@ body{
   margin: auto;
   display: block;
   margin-top: 8%;
-  width: 1200px;
+  width: 1200px !importante;
   height: 840px;
   background: none;
 
